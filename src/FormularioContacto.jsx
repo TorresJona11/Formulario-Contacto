@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './FormularioContacto.css';
 
 const FormularioContacto = () => {
     const [datosFormulario, setDatosFormulario] = useState({
